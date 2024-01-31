@@ -1,5 +1,5 @@
 # SELMA Use Case 0 (UC0) Source Code: 
-# Build from macOS for macOS and cross-compile for Linux from macOS
+## Build from macOS for macOS and cross-compile for Linux from macOS
 
 <B>Online demo</B> version of SELMA UC0 is available at: https://selma.ailab.lv
 
