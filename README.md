@@ -6,6 +6,8 @@
 
 <B>The project</B> page is available at: https://selma-project.eu/
 
+<B>Precompiled version</B> ready for installation is available from separate repository: https://github.com/SELMA-project/UC0-OpenSource
+
 ## Downloading the UC0 Source Code 
 
 <B>Download All Parts</B> of the split archive to the same directory from the Release https://github.com/SELMA-project/UC0-Build/releases/tag/v1.0.0
