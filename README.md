@@ -8,7 +8,7 @@
 
 ## Downloading the UC0 Source Code 
 
-<B>Download All Parts</B> of the split archive to the same directory from the Release https://github.com/SELMA-project/UC0-SourceCode/releases/tag/v1.0.0.0.
+<B>Download All Parts</B> of the split archive to the same directory from the Release https://github.com/SELMA-project/UC0-Build/releases/tag/v1.0.0
 
 <B>Reassemble the Archive</B> using the cat command:
 
